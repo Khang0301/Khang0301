@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Khang 👋
 
-<!--
-**Khang0301/Khang0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Software Engineering student focused on Frontend Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Fourth-year Software Engineering student
+- 💻 Focused on Frontend Development
+- ⚛️ Working with React and JavaScript
+- 🎨 Familiar with Tailwind CSS and responsive UI development
+- 🔗 Familiar with REST API integration
+- 🌱 Currently learning Java, Spring Boot and Backend Development
+- 🔎 Looking for a Frontend Developer Internship
+
+## Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+### Tools & Technologies
+- Git
+- GitHub
+- React Router
+- REST API
+- Axios
+- Vite
+- VS Code
+- Postman
+
+### Currently Learning
+- Java
+- Spring Boot
+- Backend Development
+
+## Projects
+
+### E-Library Management
+Group project for an e-library management website.
+
+My contributions:
+- Developed frontend interfaces using React
+- Worked with Tailwind CSS
+- Integrated existing APIs
+- Implemented book searching, filtering and display logic
+
+### PTIT Admission Chatbot
+Group project for an admission consultation platform.
+
+My contributions:
+- Developed frontend UI
+- Built several user and admin interfaces
+- Integrated frontend pages with existing backend APIs
+- Worked with reusable React components
+
+### Rental Platform
+Group rental management project.
+
+My current contributions:
+- Developed the QR Code management interface
+- Implemented QR preview and frontend behavior
+
+## Contact
+
+- GitHub: @Khang0301
