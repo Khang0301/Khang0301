@@ -91,14 +91,7 @@ Rental management platform for rental businesses.
 
 ---
 
-## 📈 GitHub Activity
-
-![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khang0301&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khang0301&layout=compact&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - GitHub: [@Khang0301](https://github.com/Khang0301)
+- Email: khangyhh0301@gmail.com
